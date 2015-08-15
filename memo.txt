@@ -1,0 +1,4 @@
+# 作業用のメモ
+Todo 1  Twitter APIを調べる
+     2  githubの整理
+
